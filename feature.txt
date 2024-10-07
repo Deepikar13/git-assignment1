@@ -1,0 +1,4 @@
+Hello
+
+A feature branch is a copy of main codebase that allows developers to workon new features without disrupting the main code.
+
